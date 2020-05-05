@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configdocument>
+<parsers>
+  <parser>
+    <id></id>
+    <name></name>
+    <regex> 
+    <![CDATA[]]> 
+    </regex>
+  </parser>
+</parsers>
+<fileparser>
+  <ext></ext>
+  
+</fileparser>
+  </configdocument>
